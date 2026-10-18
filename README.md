@@ -36,6 +36,15 @@ A WhatsApp-style chat app with **real end-to-end encryption** (ECDH P-256 + AES-
 ### 🤖 Private Telegram AI Bot
 A Python bot built for personal use — wired to my own token + local Ollama instance. No third-party AI APIs, data stays on my machine.
 
+### 💰 [Expense Tracker](https://github.com/tgmax20/expense-tracker)
+Track income & expenses with categories, monthly summary and a visual spending breakdown. Node.js + Express REST API, JSON storage — no database setup needed.
+
+### 🔗 [URL Shortener](https://github.com/tgmax20/url-shortener)
+Turn long URLs into tiny shareable links with click tracking, just like bit.ly. Random 6-character codes, instant redirect, one-click copy.
+
+### 📊 [Sales Dashboard](https://github.com/tgmax20/sales-dashboard)
+Interactive sales dashboard — KPI cards, monthly revenue chart, category donut and top products. Upload your own CSV to analyze any sales data. Pure HTML/CSS/JS, zero dependencies.
+
 ## 📊 GitHub Stats
 
 <div align="center">
