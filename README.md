@@ -1,8 +1,11 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=TG%20Max&fontSize=56&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/187669154?v=4" width="140" alt="TG Max"/>
   <h1>Hi there, I'm TG Max 👋</h1>
   <p><b>🎓 BBA Student &nbsp;•&nbsp; 🛠️ Self-taught Builder &nbsp;•&nbsp; 🔐 Privacy-first Tech</b></p>
   <p><i>I build real things. No fluff — just working code.</i></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=BBA+Student;Self-taught+Builder;Privacy-first+Tech;Building+real+projects" alt="Typing SVG"/>
 </div>
 
 ---
@@ -56,9 +59,18 @@ Interactive sales dashboard — KPI cards, monthly revenue chart, category donut
   <img src="https://komarev.com/ghpvc/?username=tgmax20&color=0e75b6&style=flat" alt="Profile views"/>
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=tgmax20&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tgmax20&theme=tokyonight" alt="GitHub Trophies"/>
+</div>
+
 ## 📫 Connect with me
 
 - 🐙 GitHub: [@tgmax20](https://github.com/tgmax20)
+- 👥 Followers: ![GitHub followers](https://img.shields.io/github/followers/tgmax20?style=social)
 
 ---
 
