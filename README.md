@@ -74,6 +74,16 @@ Interactive sales dashboard — KPI cards, monthly revenue chart, category donut
 
 ---
 
+## 🐍 Watch the snake eat my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tgmax20/tgmax20/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tgmax20/tgmax20/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tgmax20/tgmax20/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 <div align="center">
   <i>"Privacy isn't about having something to hide — it's about owning your own data."</i> 🔐
 </div>
